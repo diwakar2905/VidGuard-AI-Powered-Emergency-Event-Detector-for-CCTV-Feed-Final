@@ -1,0 +1,4169 @@
+{
+  "events": [
+    {
+      "label": "fire_detected",
+      "timestamp": "00:00",
+      "confidence": 0.23078450520833332
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.072490234375
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.07398220486111111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.07500434027777778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.07905490451388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.07090494791666667
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:00",
+      "confidence": 0.2506966145833333
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.06107096354166667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.05973849826388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.062479383680555556
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.06828342013888888
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.06794379340277777
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:00",
+      "confidence": 0.24623046875
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.0649924045138889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.05683919270833333
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.06522894965277778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.07299045138888889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.0797775607638889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:00",
+      "confidence": 0.24336480034722222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.06766059027777778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.06184461805555556
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.06783420138888889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.05987847222222222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.061923828125
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:00",
+      "confidence": 0.23839192708333334
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.054918619791666665
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.045711805555555554
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.047583550347222225
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:00",
+      "confidence": 0.04303385416666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.04474934895833333
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:01",
+      "confidence": 0.19993598090277778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.05056857638888889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.055932074652777775
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.05719401041666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.062161458333333336
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.05944118923611111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:01",
+      "confidence": 0.19317925347222223
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.055335286458333334
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.05789713541666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.0635329861111111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.058880208333333336
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.05737413194444444
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:01",
+      "confidence": 0.2565549045138889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.06256618923611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.0726974826388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.06903754340277778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.08053168402777777
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.08518337673611111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:01",
+      "confidence": 0.2941232638888889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.07408962673611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.0637890625
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.06038302951388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.06180338541666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.05694986979166667
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:01",
+      "confidence": 0.30674262152777776
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.06695855034722223
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.07234375
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.07255316840277778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:01",
+      "confidence": 0.058679470486111114
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.050763888888888886
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:02",
+      "confidence": 0.28496744791666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.04427734375
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.046088324652777776
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.04479058159722222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.044354383680555554
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.044273003472222225
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:02",
+      "confidence": 0.25208224826388886
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.044446614583333335
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.04485677083333333
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.04258029513888889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.04554036458333333
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.04690863715277778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:02",
+      "confidence": 0.2753765190972222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.049016927083333335
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.04771158854166667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.05108940972222222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.04833550347222222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.058994140625
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:02",
+      "confidence": 0.26181098090277777
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.06392361111111111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.06294162326388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.06789713541666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.06477430555555555
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.06720920138888889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:02",
+      "confidence": 0.2557204861111111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.06277452256944445
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.05392035590277778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.05532660590277778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:02",
+      "confidence": 0.04913845486111111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.04873480902777778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:03",
+      "confidence": 0.2555512152777778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.05267144097222222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.05695746527777778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.05381944444444445
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.04490993923611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.046502821180555556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:03",
+      "confidence": 0.2510525173611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.05029405381944444
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.05203016493055555
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.05274305555555556
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.05164930555555555
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.05515407986111111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:03",
+      "confidence": 0.26212022569444443
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.05385416666666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.05015842013888889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.057333984375
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.05957356770833333
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.06127604166666667
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:03",
+      "confidence": 0.27836805555555555
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.057496744791666665
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.06124131944444444
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.05682508680555556
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.054033203125
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.05179904513888889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:03",
+      "confidence": 0.2724381510416667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.04817274305555556
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.04799587673611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.04569118923611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:03",
+      "confidence": 0.04189019097222222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.04709418402777778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:04",
+      "confidence": 0.26013346354166667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.047620442708333335
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.05109917534722222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.054007161458333335
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.05520073784722222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.06033745659722222
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:04",
+      "confidence": 0.2770236545138889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.05870551215277778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.05748806423611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.060615234375
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.05905490451388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.06436957465277778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:04",
+      "confidence": 0.2881803385416667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.07097439236111111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.06059136284722222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.056453993055555554
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.05450846354166667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.053978949652777775
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:04",
+      "confidence": 0.28278862847222225
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.049762369791666664
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.04959526909722222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.042709418402777775
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.043544921875
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.046437717013888886
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:04",
+      "confidence": 0.26096571180555556
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.04474826388888889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.04463433159722222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.04307942708333334
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:04",
+      "confidence": 0.04609809027777778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.04498914930555555
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:05",
+      "confidence": 0.2674782986111111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.05015950520833334
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.04996636284722222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.05562065972222222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.058714192708333335
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.06557291666666666
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:05",
+      "confidence": 0.26575846354166666
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.06977647569444445
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.068251953125
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.06194227430555556
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.06228515625
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.06153103298611111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:05",
+      "confidence": 0.25787000868055554
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.05956814236111111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.058441840277777775
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.05053385416666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.04782877604166667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.041668836805555554
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:05",
+      "confidence": 0.2293500434027778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.03970703125
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.03916558159722222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.041585286458333336
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.04187825520833333
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.04547634548611111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:05",
+      "confidence": 0.23797309027777777
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.05224934895833333
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.058212890625
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.06187717013888889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:05",
+      "confidence": 0.060743272569444444
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.056794704861111114
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:06",
+      "confidence": 0.24673828125
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.05555121527777778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.04875759548611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.046997612847222224
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.039842664930555556
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.04125651041666667
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:06",
+      "confidence": 0.21808702256944446
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.035909288194444444
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.033115234375
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.03497504340277778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.039456380208333336
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.04095377604166667
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:06",
+      "confidence": 0.21250651041666666
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.04268663194444444
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.03891818576388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.041593967013888886
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.04327799479166667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.044273003472222225
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:06",
+      "confidence": 0.21638129340277779
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.04676866319444444
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.04634982638888889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.04221137152777778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.03979275173611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.03381076388888889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:06",
+      "confidence": 0.20522894965277777
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.032938368055555556
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.033798828125
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.035907118055555555
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:06",
+      "confidence": 0.03456597222222222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.03246310763888889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:07",
+      "confidence": 0.20686414930555555
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.03145616319444444
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.030370008680555557
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.030413411458333334
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.03253689236111111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.0309765625
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:07",
+      "confidence": 0.20077690972222223
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.029533420138888888
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.028160807291666666
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.025502387152777778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.02268771701388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.023173828125
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:07",
+      "confidence": 0.18489040798611112
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.02453342013888889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.02529296875
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.02385308159722222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.02324978298611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.023115234375
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:07",
+      "confidence": 0.18381727430555556
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.025908203125
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.03027560763888889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.03218641493055555
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.029833984375
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.03142361111111111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:07",
+      "confidence": 0.188017578125
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.02560004340277778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.024131944444444445
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.02216796875
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:07",
+      "confidence": 0.02371636284722222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.02544921875
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:08",
+      "confidence": 0.18953125
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.026598307291666668
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.029704861111111112
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.03260199652777778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.03664605034722222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.040750868055555556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:08",
+      "confidence": 0.20232421875
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.0389453125
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.03814887152777778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.03470377604166667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.03149522569444444
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.028670789930555555
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:08",
+      "confidence": 0.18197916666666666
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.02584743923611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.027877604166666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.024512803819444446
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.024329427083333334
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.023335503472222224
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:08",
+      "confidence": 0.18263563368055555
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.02788302951388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.03247395833333333
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.031640625
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.030342881944444445
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.032030164930555556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:08",
+      "confidence": 0.1883767361111111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.03059027777777778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.0261328125
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.02648980034722222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:08",
+      "confidence": 0.030458984375
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.028616536458333335
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:09",
+      "confidence": 0.17450086805555556
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.028449435763888888
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.02759006076388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.022748480902777778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.02174370659722222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.020571831597222222
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:09",
+      "confidence": 0.17826822916666665
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.022727864583333333
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.021701388888888888
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.025462239583333334
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.031188151041666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.03219835069444445
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:09",
+      "confidence": 0.1879025607638889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.02908420138888889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.02481228298611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.02135959201388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.020704210069444444
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.020887586805555556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:09",
+      "confidence": 0.17514214409722223
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.020568576388888888
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.019729817708333333
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.020439453125
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.024405381944444443
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.027639973958333335
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:09",
+      "confidence": 0.18568793402777778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.026707899305555557
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.025817057291666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.023706597222222223
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:09",
+      "confidence": 0.02137478298611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.02065972222222222
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:10",
+      "confidence": 0.18108723958333334
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.02221462673611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.02671875
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.027995876736111112
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.030397135416666665
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.02966037326388889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:10",
+      "confidence": 0.176064453125
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.024644097222222223
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.020001085069444445
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.018653428819444446
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.021146918402777777
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.031063368055555554
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:10",
+      "confidence": 0.18869900173611112
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.03372287326388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.03095486111111111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.02614474826388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.02603081597222222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.028473307291666666
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:10",
+      "confidence": 0.18493489583333333
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.02851345486111111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.027565104166666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.025262586805555556
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.024452039930555555
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.027894965277777777
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:10",
+      "confidence": 0.16443250868055556
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.030591362847222223
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.032076822916666664
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.025352647569444445
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:10",
+      "confidence": 0.022174479166666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.021317274305555557
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:11",
+      "confidence": 0.13939561631944444
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.018563368055555557
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.017516276041666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.019611545138888888
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.020390625
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.019853515625
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:11",
+      "confidence": 0.13389539930555555
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.01784396701388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.015857204861111113
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.01601345486111111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.017218967013888888
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.01665473090277778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:11",
+      "confidence": 0.1370464409722222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.016236979166666665
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.01357638888888889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.01408203125
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.016244574652777777
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.017464192708333333
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:11",
+      "confidence": 0.13901692708333332
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.017374131944444444
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.020779079861111112
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.018655598958333332
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.018194444444444444
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.015181206597222222
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:11",
+      "confidence": 0.13685112847222222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.015989583333333335
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.014765625
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.015483940972222223
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:11",
+      "confidence": 0.012532552083333334
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:12",
+      "confidence": 0.012094184027777777
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:12",
+      "confidence": 0.12855902777777778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:12",
+      "confidence": 0.013683810763888889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:12",
+      "confidence": 0.013697916666666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:12",
+      "confidence": 0.014869791666666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:12",
+      "confidence": 0.013748914930555555
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:12",
+      "confidence": 0.11177191840277778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:12",
+      "confidence": 0.11179253472222223
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:12",
+      "confidence": 0.10797092013888888
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:12",
+      "confidence": 0.10941189236111111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:12",
+      "confidence": 0.11175672743055555
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:12",
+      "confidence": 0.010958116319444445
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:12",
+      "confidence": 0.013583984375
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:12",
+      "confidence": 0.111337890625
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:12",
+      "confidence": 0.012005208333333333
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:12",
+      "confidence": 0.012388237847222223
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:12",
+      "confidence": 0.013198784722222223
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:12",
+      "confidence": 0.01682834201388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:12",
+      "confidence": 0.016182725694444445
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:12",
+      "confidence": 0.12544921875
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:12",
+      "confidence": 0.01865776909722222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:12",
+      "confidence": 0.019576822916666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:12",
+      "confidence": 0.020377604166666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:12",
+      "confidence": 0.02286349826388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:12",
+      "confidence": 0.02391059027777778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:12",
+      "confidence": 0.11945855034722222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:12",
+      "confidence": 0.025104166666666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:12",
+      "confidence": 0.024678819444444444
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:12",
+      "confidence": 0.025574001736111112
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:12",
+      "confidence": 0.021878255208333332
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.020299479166666665
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:13",
+      "confidence": 0.11757486979166666
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.021459418402777777
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.02071723090277778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.022020399305555556
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.023624131944444446
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.023131510416666667
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:13",
+      "confidence": 0.11196723090277778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.021448567708333335
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.023693576388888887
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.025414496527777778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.02682074652777778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.027408854166666666
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:13",
+      "confidence": 0.10263671875
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.02745334201388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.031786024305555556
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.031615668402777776
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.03175998263888889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.02905490451388889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:13",
+      "confidence": 0.10266927083333334
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.027799479166666665
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.02680881076388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.027413194444444445
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.027535807291666665
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.027179904513888888
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:13",
+      "confidence": 0.10172960069444445
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.027823350694444443
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.026481119791666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.025638020833333334
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:13",
+      "confidence": 0.025873480902777777
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.02544162326388889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:14",
+      "confidence": 0.0973611111111111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.024459635416666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.025276692708333333
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.02574435763888889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.02715603298611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.02671875
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:14",
+      "confidence": 0.08571180555555556
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.02706271701388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.02889865451388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.03047634548611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.03205946180555556
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.03187825520833333
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:14",
+      "confidence": 0.07909939236111112
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.033642578125
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.03407660590277778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.03518663194444444
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.033011067708333335
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.029340277777777778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:14",
+      "confidence": 0.07945855034722223
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.028226996527777777
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.03058376736111111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.030349392361111113
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.030057508680555556
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.032068142361111114
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:14",
+      "confidence": 0.08138237847222222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.034087456597222225
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.03434678819444444
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.03320963541666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:14",
+      "confidence": 0.033815104166666665
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.035033637152777776
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:15",
+      "confidence": 0.07825737847222222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.034546440972222224
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.03352105034722222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.030305989583333335
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.029458550347222223
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.026504991319444445
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:15",
+      "confidence": 0.07046223958333334
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.02358181423611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.022734375
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.022331814236111112
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.020378689236111112
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.019581163194444445
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:15",
+      "confidence": 0.07007486979166666
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.01902560763888889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.019500868055555554
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.018883463541666666
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.018225911458333334
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.01846462673611111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:15",
+      "confidence": 0.06109917534722222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.018805338541666668
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.020622829861111112
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.021552734375
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.022136501736111112
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.022087673611111112
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:15",
+      "confidence": 0.05684895833333333
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.022622612847222223
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.0233203125
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.023963758680555555
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:15",
+      "confidence": 0.024649522569444443
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.02565212673611111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:16",
+      "confidence": 0.05206271701388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.027233072916666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.027802734375
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.028818359375
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.02896701388888889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.030098741319444445
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:16",
+      "confidence": 0.04987087673611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.03242513020833333
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.031929253472222224
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.035066189236111114
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.036644965277777775
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.037020399305555556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:16",
+      "confidence": 0.052751736111111114
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.039955512152777775
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.042572699652777775
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.04540690104166667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.045744357638888886
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.044767795138888886
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:16",
+      "confidence": 0.04679796006944444
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.04391384548611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.04540364583333333
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.04623806423611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.047421875
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.04771375868055556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:16",
+      "confidence": 0.04690863715277778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.04586588541666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.044444444444444446
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.04359375
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:16",
+      "confidence": 0.04376519097222222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.045123697916666664
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:17",
+      "confidence": 0.050590277777777776
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.046368272569444445
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.04533637152777778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.04272786458333333
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.04046657986111111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.039130859375
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:17",
+      "confidence": 0.05315104166666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.03742838541666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.03856987847222222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.04040256076388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.04245225694444445
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.04160590277777778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:17",
+      "confidence": 0.055584852430555554
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.042463107638888886
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.04119791666666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.037017144097222225
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.033292100694444444
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.031483289930555554
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:17",
+      "confidence": 0.05380425347222222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.030131293402777776
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.030579427083333333
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.028734809027777777
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.03009982638888889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.030795355902777776
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:17",
+      "confidence": 0.054713541666666664
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.03
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.02966579861111111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.028307291666666668
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:17",
+      "confidence": 0.027586805555555555
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.027439236111111112
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:18",
+      "confidence": 0.055301649305555554
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.028910590277777776
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.02943142361111111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.03022243923611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.03080295138888889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.031829427083333334
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:18",
+      "confidence": 0.057769097222222225
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.03081705729166667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.030791015625
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.029364149305555556
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.02651909722222222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.025045572916666668
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:18",
+      "confidence": 0.05715386284722222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.02575737847222222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.026614583333333334
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.028477647569444445
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.02741427951388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.023014322916666666
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:18",
+      "confidence": 0.05504557291666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.021133897569444445
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.01930447048611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.018862847222222222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.020220269097222222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.022606336805555554
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:18",
+      "confidence": 0.052395833333333336
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.024189453125
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.025225694444444443
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.024913194444444446
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:18",
+      "confidence": 0.02655815972222222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.02826497395833333
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:19",
+      "confidence": 0.055294053819444446
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.027856987847222223
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.02893012152777778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.03141927083333333
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.03337456597222222
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.03228841145833333
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:19",
+      "confidence": 0.058366970486111114
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.0325
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.033189019097222223
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.031116536458333333
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.029354383680555554
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.028655598958333334
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:19",
+      "confidence": 0.05978515625
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.02814453125
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.026783854166666666
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.026458333333333334
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.023254123263888888
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.021373697916666667
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:19",
+      "confidence": 0.05880099826388889
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.020779079861111112
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.019000651041666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.01708984375
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.014830729166666667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.016572265625
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:19",
+      "confidence": 0.05862738715277778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.01750759548611111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.017585720486111112
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.01695095486111111
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:19",
+      "confidence": 0.015474175347222223
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:20",
+      "confidence": 0.014346788194444444
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:20",
+      "confidence": 0.05977973090277778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:20",
+      "confidence": 0.012570529513888888
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:20",
+      "confidence": 0.013363715277777778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:20",
+      "confidence": 0.014919704861111112
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:20",
+      "confidence": 0.015211588541666666
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:20",
+      "confidence": 0.014595269097222223
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:20",
+      "confidence": 0.06440538194444445
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:20",
+      "confidence": 0.014778645833333333
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:20",
+      "confidence": 0.012582465277777777
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:20",
+      "confidence": 0.011459418402777777
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:20",
+      "confidence": 0.012288411458333334
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:20",
+      "confidence": 0.012134331597222223
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:20",
+      "confidence": 0.06134440104166667
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:20",
+      "confidence": 0.011332465277777778
+    },
+    {
+      "label": "large_motion",
+      "timestamp": "00:20",
+      "confidence": 0.011430121527777778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:20",
+      "confidence": 0.06572157118055555
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:20",
+      "confidence": 0.06644422743055556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:20",
+      "confidence": 0.065537109375
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:20",
+      "confidence": 0.06547309027777778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:20",
+      "confidence": 0.06413194444444445
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:20",
+      "confidence": 0.06642686631944444
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:20",
+      "confidence": 0.06569118923611111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:20",
+      "confidence": 0.0665407986111111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:20",
+      "confidence": 0.06406792534722222
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:20",
+      "confidence": 0.06407009548611112
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:20",
+      "confidence": 0.06674479166666666
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:20",
+      "confidence": 0.06678602430555555
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:20",
+      "confidence": 0.06382269965277777
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:20",
+      "confidence": 0.06432400173611111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06278428819444444
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06275282118055556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06407769097222223
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06591796875
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06279839409722222
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06640625
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06522352430555556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06529730902777778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06797960069444445
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06659830729166667
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06614040798611111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06778537326388889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06592664930555556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06592881944444444
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06622938368055556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06929578993055556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06697374131944445
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06986436631944444
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06783854166666667
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06783854166666667
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.0709375
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.07019965277777777
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06844943576388889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06981228298611111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.07035264756944444
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.07024197048611111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.07201714409722222
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.07066731770833333
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.06679361979166666
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:21",
+      "confidence": 0.07029622395833333
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.06889431423611111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.06889105902777778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.07025390625
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.07058268229166667
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.06981336805555556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.07067274305555556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.06888780381944444
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.06885959201388889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.0682497829861111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.0672189670138889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.06483615451388888
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.06622287326388888
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.06370876736111111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.06370768229166666
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.06777235243055556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.06874674479166666
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.06740017361111111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.06980685763888889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.06930121527777777
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.06929796006944444
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.07108289930555556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.07076063368055556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.06861653645833334
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.07056423611111111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.06863606770833333
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.068603515625
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.06943793402777777
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.06871744791666666
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.06757269965277778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:22",
+      "confidence": 0.06900607638888889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.06731770833333334
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.06732096354166667
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.06650933159722222
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.06948893229166667
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.0694921875
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.07053059895833333
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.06876302083333333
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.06866970486111111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.07076822916666667
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.0724001736111111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.069248046875
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.07039930555555556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.068564453125
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.06861762152777778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.06984700520833333
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.07089626736111111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.068564453125
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.07217230902777778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.0699338107638889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.06992513020833334
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.07261501736111112
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.07227973090277778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.07098415798611112
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.07323133680555556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.07087131076388889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.07086154513888888
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.07251302083333333
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.07295030381944445
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.07140625
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:23",
+      "confidence": 0.07140516493055556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.06905164930555556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.06897135416666667
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.07039822048611111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.0709939236111111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.06886176215277778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.070869140625
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.07001953125
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.0700390625
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.071435546875
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.07275607638888888
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.06848307291666667
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.07134223090277778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.07048394097222223
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.07047309027777778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.07217990451388889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.07211154513888889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.07146375868055556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.0731911892361111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.07091579861111111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.07083658854166666
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.07096245659722222
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.07342339409722222
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.07003038194444444
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.070771484375
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.069140625
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.069140625
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.07208767361111111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.07161783854166667
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.06872287326388889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:24",
+      "confidence": 0.07111653645833334
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.06985677083333333
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.06992078993055556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.07104926215277778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.07100151909722222
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.06638237847222223
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.06965711805555555
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.06744791666666666
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.06755425347222223
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.06984266493055556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.07003146701388889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.06936089409722222
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.07068467881944444
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.06909505208333333
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.06911783854166667
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.06936089409722222
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.07029079861111111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.06746419270833333
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.06944986979166666
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.06656575520833333
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.06658094618055556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.07044813368055555
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.07248046875
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.07183485243055555
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.07176215277777778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.07140842013888889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.07138346354166666
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.07245768229166667
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.07332573784722222
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.06904513888888889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:25",
+      "confidence": 0.07302734375
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07080403645833333
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07076063368055556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07374131944444444
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07313368055555555
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07241319444444444
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07553602430555556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07262912326388889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07267686631944445
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07286024305555555
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07478515625
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07140625
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07228081597222222
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.069833984375
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.069833984375
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07307508680555555
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07330729166666666
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07199327256944445
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07386176215277777
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07341471354166666
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07338216145833333
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07423936631944444
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07506727430555556
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07221245659722222
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07497395833333333
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07373697916666666
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07372504340277777
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07536892361111111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07463650173611111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07384114583333333
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:26",
+      "confidence": 0.07576063368055555
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.07401041666666666
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.07421875
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.07425998263888889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.07542643229166666
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.07347439236111111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.074677734375
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.07180881076388888
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.07177734375
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.07417643229166666
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.0742697482638889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.07179470486111111
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.07369791666666667
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.07328342013888889
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.07314995659722222
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.07278754340277778
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.073291015625
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.07074110243055555
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.07315972222222222
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.07120985243055555
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.07137369791666667
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.07285590277777777
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.07302842881944445
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.07094075520833333
+    },
+    {
+      "label": "fire_detected",
+      "timestamp": "00:27",
+      "confidence": 0.07076714409722222
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "events": [
+    {
+      "label": "no_motion_long",
+      "timestamp": "00:05",
+      "confidence": 1.0
+    },
+    {
+      "label": "no_motion_long",
+      "timestamp": "00:10",
+      "confidence": 1.0
+    }
+  ]
+}
